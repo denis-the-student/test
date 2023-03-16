@@ -1,1 +1,3 @@
 Line from feature1
+
+Critical bug fixed
