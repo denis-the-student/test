@@ -1,5 +1,1 @@
-Hello world!
-
-New changes!
-Good morning new! (from branch add-feature1)
-Line from user1
+Line from feature1
