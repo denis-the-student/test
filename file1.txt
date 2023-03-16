@@ -1,3 +1,5 @@
 Line from user2
 
 Some new feature
+
+line from user1
